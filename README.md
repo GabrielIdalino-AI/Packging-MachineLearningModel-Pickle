@@ -2,5 +2,5 @@
 
 ### First step: "Packaging model with pickle.ipynb"
 
-### Second step: "Packaging model with pickle.ipynb"
+### Second step: "Testing packed model.ipynb"
 
